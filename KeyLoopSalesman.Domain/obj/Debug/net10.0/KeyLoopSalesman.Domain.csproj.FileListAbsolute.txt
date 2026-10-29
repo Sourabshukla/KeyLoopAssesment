@@ -1,0 +1,15 @@
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\bin\Debug\net10.0\KeyLoopSalesman.Domain.deps.json
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\bin\Debug\net10.0\KeyLoopSalesman.Domain.runtimeconfig.json
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\bin\Debug\net10.0\KeyLoopSalesman.Domain.dll
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\bin\Debug\net10.0\KeyLoopSalesman.Domain.pdb
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\obj\Debug\net10.0\KeyLoopSalesman.Domain.csproj.AssemblyReference.cache
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\obj\Debug\net10.0\KeyLoopSalesman.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\obj\Debug\net10.0\KeyLoopSalesman.Domain.AssemblyInfoInputs.cache
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\obj\Debug\net10.0\KeyLoopSalesman.Domain.AssemblyInfo.cs
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\obj\Debug\net10.0\KeyLoopSalesman.Domain.csproj.CoreCompileInputs.cache
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\obj\Debug\net10.0\KeyLoopSalesman.Domain.sourcelink.json
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\obj\Debug\net10.0\KeyLoopSalesman.Domain.dll
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\obj\Debug\net10.0\refint\KeyLoopSalesman.Domain.dll
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\obj\Debug\net10.0\KeyLoopSalesman.Domain.pdb
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\obj\Debug\net10.0\KeyLoopSalesman.Domain.genruntimeconfig.cache
+D:\LearningJobSwitch\KeyLoopAssesmentSubmission\KeyLoopSalesman.Domain\obj\Debug\net10.0\ref\KeyLoopSalesman.Domain.dll

@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="SystemDesign.md" />
+  </Folder>
+  <Project Path="../KeyLoopSalesman.Application/KeyLoopSalesman.Application.csproj" />
+  <Project Path="../KeyLoopSalesman.Domain/KeyLoopSalesman.Domain.csproj" />
+  <Project Path="../KeyLoopSalesman.Infrastructure/KeyLoopSalesman.Infrastructure.csproj" />
+  <Project Path="../KeyLoopSalesman.Tests/KeyLoopSalesman.Tests.csproj" />
+  <Project Path="KeyLoopSalesman.Api.csproj" />
+</Solution>

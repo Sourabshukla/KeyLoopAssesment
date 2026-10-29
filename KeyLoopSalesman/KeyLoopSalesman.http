@@ -1,0 +1,6 @@
+@KeyLoopSalesman_HostAddress = http://localhost:5034
+
+GET {{KeyLoopSalesman_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
